@@ -1,5 +1,5 @@
 # Pokedex
-My Pokedex.
+My Pokedex App.
 
 Pokenoms that are present in this app: "Charizard", "Raichu", "Pikachu", "Bulbasaur", "Squirtle", "Sandslash", "Golduck", "Sandshrew", "Blastoise", "Pidgeot", "Pidgey", "Butterfree".
 
